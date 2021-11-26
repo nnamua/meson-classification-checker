@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2021 Paul Aumann
+#
+# SPDX-License-Identifier: Apache-2.0
+
 from buildfile import IGNORE_STRING, BuildFile
 from typing import Union
 from util import varname

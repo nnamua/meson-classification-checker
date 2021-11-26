@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2021 Paul Aumann
+#
+# SPDX-License-Identifier: Apache-2.0
+
 from typing import List, Union
 import templates, inspect
 from util import iskwarg, varname, get_parameter_combinations, ismultimethod, get_methods

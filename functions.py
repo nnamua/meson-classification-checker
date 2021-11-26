@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2021 Paul Aumann
+#
+# SPDX-License-Identifier: Apache-2.0
+
 from multimethod import multimethod
 from typing import Any, Dict, overload, Union, Literal, Optional
 from merge_args import merge_args

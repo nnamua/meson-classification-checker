@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2021 Paul Aumann
+#
+# SPDX-License-Identifier: Apache-2.0
+
 import tempfile, os, subprocess, shutil, re, errno, templates
 from typing import List, Tuple
 from util import red, varname, yellow

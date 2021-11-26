@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2021 Paul Aumann
+#
+# SPDX-License-Identifier: Apache-2.0
+
 import multimethod, objects, functions, random, inspect, string, typing, re
 
 def ismultimethod(obj) -> bool:

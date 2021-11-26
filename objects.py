@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2021 Paul Aumann
+#
+# SPDX-License-Identifier: Apache-2.0
+
 from __future__ import annotations
 from typing import Union, Any, TypeVar, Optional, Generic
 import multimethod

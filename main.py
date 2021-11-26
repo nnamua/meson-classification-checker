@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+# SPDX-FileCopyrightText: 2021 Paul Aumann
+#
+# SPDX-License-Identifier: Apache-2.0
+
 from log import Log
 from templates import TemplateNotFoundException
 import objects, functions, os, argparse, inspect, sys, util
